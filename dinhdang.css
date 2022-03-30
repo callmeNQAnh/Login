@@ -1,0 +1,12 @@
+.width{
+    width: 350px;
+    height: auto;
+   
+    border-color: black solid 2px;
+}
+.border{
+    border-color: black solid 2px;
+}
+.rar{
+    border-radius: 20%;
+}
